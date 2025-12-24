@@ -1,16 +1,19 @@
-# Excel Sales Analysis
+# Coffee Shop Sales Analysis (Excel)
 
-This project demonstrates sales data analysis using Microsoft Excel.
+This project analyzes coffee shop sales data using Microsoft Excel.
 
-## Project Overview
-- Analysed sales performance across products and regions
-- Used Excel formulas and pivot tables for insights
-- Identified trends in revenue and quantity sold
+## What I did
+- Cleaned the raw sales data
+- Created Pivot Tables to analyze:
+  - Total sales
+  - Sales by product
+  - Sales by category
+  - Sales by time period
+- Used filters and slicers for better analysis
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Excel formulas (SUM, IF, VLOOKUP/XLOOKUP)
 
-## Files
-- `sales_analysis.xlsx` – Main Excel analysis file
+## File
+- Coffee Shop Sales.xlsx
